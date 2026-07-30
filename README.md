@@ -426,12 +426,3 @@ This project enables organizations to:
 
 ---
 
-# Contact
-
-**Name:** Shaikh Mohd Israhil
-
-**Email:** mohdisrahils@gmail.com
-
-**LinkedIn:** https://www.linkedin.com/in/mohd-israhil-shaikh-3b8b04281/
-
-**GitHub:** https://github.com/israhil10
